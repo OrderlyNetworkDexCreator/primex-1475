@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "primexprotocol",
   "VITE_ORDERLY_BROKER_NAME": "Primex",
   "VITE_BROKER_EOA_ADDRESS": "0x575e88eea1e187f6bac787f5cb9369cda747588a",
   "VITE_DISABLE_MAINNET": "false",
