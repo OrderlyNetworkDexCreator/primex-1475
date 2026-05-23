@@ -1,6 +1,6 @@
 :root {
   --oui-font-family: 'IBM Plex Sans', sans-serif;
-  --trading-disabled-text: "Trading Disabled";
+  --oui-font-size-base: 16px;
 
   /* colors */
   --oui-color-primary: 176 132 233;
@@ -40,9 +40,9 @@
   --oui-color-base-5: 38 41 50;
   --oui-color-base-6: 32 34 42;
   --oui-color-base-7: 51 46 66;
-  --oui-color-base-8: 24 26 32;
-  --oui-color-base-9: 20 22 28;
-  --oui-color-base-10: 14 13 18;
+  --oui-color-base-8: 0 0 0;
+  --oui-color-base-9: 0 0 0;
+  --oui-color-base-10: 0 0 0;
 
   --oui-color-base-foreground: 255 255 255;
   --oui-color-line: 93 83 123;
@@ -96,5 +96,12 @@
 
 html, body {
   font-family: 'IBM Plex Sans', sans-serif !important;
-  font-size: 15.5px !important;
+  font-size: 16px !important;
+}
+
+.orderly-app-container,
+.orderly-app-container *,
+.orderly-app-container *::before,
+.orderly-app-container *::after {
+  font-family: 'IBM Plex Sans', sans-serif !important;
 }
