@@ -22,7 +22,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_CUSTOM_MENUS": "Create DEX, https://dex.orderly.network/dex?distributor_code=PRIMEX; Primex Vault, https://app.orderly.network/vaults/sp/0x37373f70006a742ac6c0042e0b3665966501c060",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
   "VITE_ENABLE_CAMPAIGNS": "false",
-  "VITE_TELEGRAM_URL": "https://t.me/Primex_Protocol",
+  "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "Primex",
