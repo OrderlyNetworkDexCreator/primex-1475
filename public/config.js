@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Swap,Vaults,Campaigns",
-  "VITE_CUSTOM_MENUS": "Create your own DEX, https://dex.orderly.network/dex?distributor_code=PRIMEX; Primex Vault, https://app.orderly.network/vaults/0x37373f70006a742ac6c0042e0b3665966501c060; Telegram, https://t.me/Primex_Protocol",
+  "VITE_CUSTOM_MENUS": "Create your own DEX, https://dex.orderly.network/dex?distributor_code=PRIMEX; Vault Primex, https://app.orderly.network/vaults/0x37373f70006a742ac6c0042e0b3665966501c060; Telegram: Primex, https://t.me/Primex_Protocol",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/Primex_Protocol",
